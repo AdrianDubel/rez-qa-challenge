@@ -36,7 +36,7 @@ All tests were written using Page Object Pattern and Cypress Commands. In the * 
 ```
 
 ## Project launch:
-To run the project, clone the repository, then go to the "adrian--challenge" folder and run the ```npm install``` command in the terminal
+To run the project, clone the repository, then go to the "rez-qa-challenge" folder and run the ```npm install``` command in the terminal
 
 ## Running the tests:
 - Running tests in headless mode: ``` npm run tests:headless```
