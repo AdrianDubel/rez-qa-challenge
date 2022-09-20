@@ -24,7 +24,7 @@ The solution of the task contains two test files:
 
 - The View Results button should close the Filter Results page and display properties on the hub meeting the criteria.
 
-All tests were written using Page Object Pattern and Cypress Commands. In the * "Support" * folder I have created two folders: * "locators" * where all locators used in tests are stored, broken down into individual subpages, and the * "methods" * folder where scripts that perform actions on website during testing.
+All tests were written using Page Object Pattern and Cypress Commands. In the *"Support"* folder I have created two folders: *"locators"* where all locators used in tests are stored, broken down into individual subpages, and the *"methods"* folder where scripts that perform actions on website during testing.
 
 ## Environment:
 
