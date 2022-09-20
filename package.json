@@ -1,0 +1,15 @@
+{
+  "name": "adrian--challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tests": "cypress open",
+    "tests:headless": "cypress run --browser chrome" 
+  },
+  "author": "Adrian Dubel",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.8.0"
+  }
+}
