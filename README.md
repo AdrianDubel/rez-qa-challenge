@@ -39,5 +39,5 @@ All tests were written using Page Object Pattern and Cypress Commands. In the * 
 To run the project, clone the repository, then go to the "adrian--challenge" folder and run the ```npm install``` command in the terminal
 
 ## Running the tests:
-- Running tests in headless mode: `` `` npm run test: headless ''
-- Running tests in visual mode: `` `` asl run test```
+- Running tests in headless mode: ``` npm run tests:headless```
+- Running tests in visual mode: ```npm run tests```
