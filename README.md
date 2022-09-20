@@ -33,6 +33,7 @@ All tests were written using Page Object Pattern and Cypress Commands. In the * 
 - Node v16.13.1
 - npm v8.1.2
 - Cypress v10.8.0
+- IDE: Visual Studio Code v1.71.2
 ```
 
 ## Project launch:
